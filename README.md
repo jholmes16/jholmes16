@@ -16,5 +16,5 @@ I am a fullstack software/technical engineer.
 
 <img align="left" alt="nextjs" src="https://img.shields.io/badge/next.js%20-%231877F2.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 
-<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20overflow-FE7A16.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-FE7A16.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 
