@@ -16,13 +16,14 @@ I am a fullstack software/technical engineer.
 
 <img align="left" alt="nextjs" src="https://img.shields.io/badge/next.js%20-%231877F2.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 
-<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-FE7A16.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-FE7A16.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><br/>
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jholmes16)](https://github.com/jholmes16/github-readme-stats)
-
-![Jahmaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=jholmes16&count_private=true&hide=contribs,stars,issues)
+<a href="https://github.com/jholmes16/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jholmes16" />
+</a>
+<a href="https://github.com/jholmes16/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jholmes16&count_private=true&hide=contribs,stars,issues" />
+</a>
 
 
 
