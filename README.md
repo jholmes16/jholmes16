@@ -2,7 +2,7 @@
 
 I am a fullstack software/technical engineer.
 
-- 🔭 I’m currently working on multiple frontend and backend projects using the MERN stack, Nextjs, and MySQL.
+- 🔭 I’m currently working on multiple frontend and backend projects using the MERN stack, LAMP stack, and Nextjs framework.
 - 🌱 I am always trying to learn and stay current on the best practices of software development.
 
 ## Connect with me
