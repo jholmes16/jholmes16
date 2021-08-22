@@ -18,7 +18,7 @@ I am a fullstack software/technical engineer.
 
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-FE7A16.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><br/>
 
-<a href="https://github.com/jholmes16?tab=repositories">
+<a href="https://github.com/jholmes16">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jholmes16" />
 </a>
 <a href="https://github.com/jholmes16/">
