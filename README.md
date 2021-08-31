@@ -24,7 +24,9 @@ I am a fullstack software/technical engineer.
 <a href="https://github.com/jholmes16/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jholmes16&count_private=true&hide=contribs,stars,issues" />
 </a>
-
+<a href="https://github.com/jholmes16/">
+Homepage
+</a>
 
 
 
