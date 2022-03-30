@@ -1,6 +1,6 @@
 ### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a Software Engineer/Project Manger.
+Software Engineer | Project Manger.
 
 - 🔭 Some of the development technologies I am familiar with are Python, Flask, the LAMP and MERN stack.
 - 🌱 I am always learning and staying current on the best practices of software development.
