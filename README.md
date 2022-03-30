@@ -1,8 +1,8 @@
 ### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a fullstack software/technical engineer.
+I am a Software Engineer/Project Manger.
 
-- 🔭 I’m currently working on multiple frontend and backend projects using the MERN stack, LAMP stack, and Nextjs framework.
+- 🔭 Some of the technologies I am familiar with are Python, Flask, the LAMP and MERN stack.
 - 🌱 I am always learning and staying current on the best practices of software development.
 
 ## Connect with me
