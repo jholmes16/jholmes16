@@ -19,10 +19,10 @@ I am a Software Engineer/Project Manger.
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-14354C.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><br/>
 
 <a href="https://github.com/jholmes16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jholmes16" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jholmes16&theme=blue-green" />
 </a>
 <a href="https://github.com/jholmes16/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jholmes16&count_private=true&hide=contribs,stars,issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jholmes16&count_private=true&hide=contribs,stars,issues&theme=blue-green" />
 </a>
 <p align="center">
 <a href="https://github.com/jholmes16/"><br />
