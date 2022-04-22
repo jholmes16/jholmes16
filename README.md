@@ -26,7 +26,7 @@ Software Engineer | Project Manger.
 </a>
 <p align="center">
 <a href="https://github.com/jholmes16/"><br />
-Homepage
+Click Here To View Repositories!
 </a>
 </p>
 
