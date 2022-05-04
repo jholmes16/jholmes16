@@ -2,7 +2,7 @@
 
 Software Engineer | Project Manger.
 
-- 🔭 Some of the development technologies I am familiar with are Python, Flask, the LAMP and MERN stack.
+- 🔭 Some of the development technologies I am familiar with are Python, FastAPI, Flask, the LAMP and MERN stack.
 - 🌱 I am always learning and staying current on the best practices in software development.
 
 ## Connect with me
