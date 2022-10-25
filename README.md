@@ -1,6 +1,6 @@
 ### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30px">
 
-Software Engineer | Project Manger.
+IT Engineer | DevOps Engineer
 
 - 🔭 Some of the development technologies I am familiar with are Python, FastAPI, Flask, the LAMP and MERN stack.
 - 🌱 I am always learning and staying current on the best practices in software development.
