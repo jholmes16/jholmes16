@@ -12,7 +12,7 @@ IT Engineer | DevOps Engineer
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
 
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="ansible" src="https://img.shields.io/badge/ansible%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 <img align="left" alt="nextjs" src="https://img.shields.io/badge/next.js%20-%231877F2.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 
