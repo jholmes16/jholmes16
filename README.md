@@ -3,6 +3,7 @@
 IT Engineer | DevOps Engineer
 
 - 🔭 Some of the development technologies I am familiar with are Python, FastAPI, Flask, the LAMP and MERN stack.
+- <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cloudways.svg" /> Some of the DevOps I am familiar with include Jenkins, Ansible, Docker, and Kubernetes.
 - 🌱 I am always learning and staying current on the best practices in software development.
 
 ## Connect with me
@@ -10,11 +11,11 @@ IT Engineer | DevOps Engineer
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jahmaul-holmes/)
 <br>
 ## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
 
-<img align="left" alt="ansible" src="https://img.shields.io/badge/ansible%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="ansible" src="https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=for-the-badge" />
 
-<img align="left" alt="nextjs" src="https://img.shields.io/badge/next.js%20-%231877F2.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
+<img align="left" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
 
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-14354C.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><br/>
 
