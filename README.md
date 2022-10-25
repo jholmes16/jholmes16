@@ -17,7 +17,7 @@ IT Engineer | DevOps Engineer
 
 <img align="left" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
 
-<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-14354C.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" /><br/>
 
 <a href="https://github.com/jholmes16">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jholmes16&theme=blue-green" />
