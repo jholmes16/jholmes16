@@ -22,9 +22,11 @@ IT Engineer | Cloud Architect
 <a href="https://github.com/jholmes16">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jholmes16&theme=blue-green" />
 </a>
-<a href="https://github.com/jholmes16/">
+
+<!-- For Grade to show <a href="https://github.com/jholmes16/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jholmes16&count_private=true&hide=contribs,stars,issues&theme=blue-green" />
-</a>
+</a> -->
+
 <p align="center">
 <a href="https://github.com/jholmes16/"><br />
 Click Here To View Repositories
