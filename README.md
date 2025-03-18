@@ -1,6 +1,6 @@
 ### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30px">
 
-IT Engineer | Cloud Architect
+Data Engineer | Cloud Architect
 
 - 🔭 Some of the development technologies I am familiar with include Python, FastAPI, Flask, the LAMP and MERN stack.
 - 🌤️ Some of the DevOps tools I am familiar with include Jenkins, Ansible, Docker, and Kubernetes.
